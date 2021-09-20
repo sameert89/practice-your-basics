@@ -3,7 +3,7 @@ A repository containing basic prohramming questions in C, C++, Python and Go
 
 ***Not Affiliated with Digital Ocean or Hacktoberfest***
 
-![Hacktoberfest](https://pbs.twimg.com/media/Dn4njsBXkAEQWZs.jpg)
+![Hacktoberfest](logo-hacktoberfest.svg)
 
 # CONTRIBUTING!
 
