@@ -8,14 +8,8 @@ A repository containing basic prohramming questions in C, C++, Python and Go
 # CONTRIBUTING!
 
 # Contributing to this repo
-**Implementing new File/Directory Structure**
-* Try to keep things as modular as possible, the new file/directory structure should be:
-```
-/data_structures/structure/language/file
-ex: /data_structures/char_stack/cpp/cstack.cpp
-/algorithms/algorithm/language/file
-ex: /algorithms/bubble_sort/cpp/bubble_sort.cpp
-```
+**Check the questions**
+* Create your solution file in the the correct folder. Example- C files need to be created in the C folder
 
 
 
