@@ -34,4 +34,5 @@ A repository containing basic programming questions in C, C++, Python and Go
 6. Kindly send your institute Roll No. while making your PR.
 7. Mails regarding rejection of PRs will not be entertained.
 8. CS Club IIITDM has all rights to reject PRs and the decision made by the cores will be final in this regard.
-9. All PRs will be accepted on a **First Come First Serve Basis**.  
+9. All PRs will be accepted on a **First Come First Serve Basis**. 
+10. Please give us 48hrs at max to respond to submitted PRs. 
