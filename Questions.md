@@ -1,3 +1,4 @@
+### 0. Write a program to print "Hello World".
 ### 1. Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5, between 2000 and 3200 (both included).The numbers obtained should be printed in a comma-separated sequence on a single line.
 ### 2. Write a program which can compute the factorial of a given numbers.The results should be printed in a comma-separated sequence on a single line.Suppose the following input is supplied to the program: 8 Then, the output should be:40320
 ### 3. Program to reverse the case of input string.
@@ -9,7 +10,7 @@
 ### 9. Write a program, which will find all such numbers between 1000 and 3000 (both included) such that each digit of the number is an even number.The numbers obtained should be printed in a comma-separated sequence on a single line.
 ### 10. Write a program that accepts a sentence and calculate the number of letters and digits.
 ### 11. Write a program that accepts a sentence and calculate the number of upper case letters and lower case letters.
-### **Question 12.**
+### **12.**
 
 > **_A website requires the users to input username and password to register. Write a program to check the validity of password input by users._**
 
