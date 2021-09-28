@@ -8,10 +8,6 @@ A repository containing basic programming questions in C, C++, Python and Go
 # CONTRIBUTING!
 
 # Contributing to this repo
-**Check the questions**
-* Create your solution file in the the correct folder. Example- C files need to be created in the C folder
-
-
 
 ## How To:
 
@@ -28,3 +24,6 @@ A repository containing basic programming questions in C, C++, Python and Go
 1. Fork Repo on Web Page
 2. Make your changes on your forked repo
 3. Make Pull Request to master
+
+### Rules:
+1. Check the Questions at [a relative link](Questions.md)
