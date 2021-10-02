@@ -1,4 +1,4 @@
-# Practice-Your-Basics
+# Practice Your Basics
 A repository containing basic programming questions in C, C++, Python and Go
 
 ***Not Affiliated with Digital Ocean or Hacktoberfest***
