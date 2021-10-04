@@ -26,7 +26,7 @@ A repository containing basic programming questions in C, C++, Python and Go
 3. Make Pull Request to master
 
 ### Rules:
-1. Check the Questions [Here](Questions.md)
+1. Check the Questions [Here](questions.md)
 2. Upload Solutions to the Correct Folders i.e. all C solutions must me added to C folder only
 3. If any Question is solved in C then a PR made to the same question in C++ will not be accepted. Vice-versa also applies.
 4. All the files must be names as "Quesn{Question_Number}.{filetype}". Example: Quesn0.cpp
