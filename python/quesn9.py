@@ -8,10 +8,11 @@ each digit of the number is an even number.The numbers obtained should be printe
 sequence on a single line.
 '''
 
-acc_numbers = []
-for number in range(1000,3001):
-    num_string = str(number)
-    if int(num_string[0]) % 2 == 0 and int(num_string[1]) % 2 == 0 and int(num_string[2]) & 2 == 0 and int(num_string[3]) % 2 == 0:
-        acc_numbers.append(num_string)
+all_numbers = []
 
-print(",".join(acc_numbers))
+for number in range(1000, 3001):
+    num_string = str(number)
+    if (int(num_string[0])%2 == 0) and (int(num_string[1])%2 == 0) and (int(num_string[2])%2 == 0) and (int(num_string[3])%2 == 0):
+        all_numbers.append(num_string)
+
+print(",".join(all_numbers))
